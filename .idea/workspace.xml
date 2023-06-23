@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22eb6f0d-ab94-45fa-afc8-bfc72a30b6e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ex_02/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02/SeguroDeVida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_02/Tributavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_03/Objeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04/Peixe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
